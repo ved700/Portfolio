@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+    background-color: rgb(248 252 255);
+}
+
+.header {
+    display: flex;
+    margin-left: 0%;
+    padding: 20px;
+   
+    
+   
+    background-color: rgb(248 252 255);
+}
+.logo h1{
+    display: inline-block;
+    font-size: 50px;
+}
+.navbar  ul li{
+    display: inline-block;
+    margin-left: 100px;
+    font-display: 20px;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-left: 150px;
+    margin-top: 20px;
+    text-decoration: solid;
+   
+}
+a{
+    text-decoration: none;
+    color: rgb(105, 36, 225);
+}
+span{
+    height: 20px;
+    color: rgba(254, 10, 10, 0.803);
+}
+img
+{
+    float: right;
+    width: 200px;
+    margin-right: 300px;
+    height: 200px;
+}
+
+
+.mar {
+    width: 600px;
+    margin-left: 300px;
+}
+
+.home{
+    margin-top: 100px;
+  
+    height: 200px;
+    
+}
+.headcon{
+    text-align: center;
+    text-decoration-color: black;
+   
+   
+}
+
+.about{
+    height: 301px; width: 1200px;;margin-left: 100px; margin-top: 90px; background-color: rgb(132, 22, 18);
+   
+   
+}
+.person{
+    height: 300px; width:595px; float:left;background-color: rgb(245, 175, 149);
+  
+}
+.education{
+   
+    height: 300px; width:595px; float:right;background-color: rgb(234, 186, 186);
+
+}
+.skill{
+    margin-top: 90px;
+    width: 1200px;
+    height: 272px;
+    
+    margin-left: 100px;
+    
+    background-color: rgb(203, 227, 64);
+
+}
+label{
+    font-size: 40px;
+    
+}
+.project{
+    align-items: center;
+    width: 1251px;
+    height: 300px;
+    margin-top: 80px;
+    margin-left: 80px;
+    background-color: rgb(237 203 203 / 80%);
+   
+}
+.proj1{
+    margin-top: 20px;
+    width: 380px;
+    height: 200px;
+    float: left;
+    margin-left: 2px;
+  background-color: #e7f5e7;
+}
+.proj2{
+   
+   
+   
+    margin-top: 20px;
+    width: 380px;
+    height: 200px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 1px;
+  background-color: #e7f5e7;
+}
+.contact{
+    align-items: center;
+    width: 1251px;
+    height: 300px;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    background-color: rgb(237 203 203 / 80%);
+    
+}
+.con1{
+    float: left;
+    margin: 20px 0 0 250px;
+    width: 300px;
+    background-color: aqua;
+}
+.con2{
+    float: right;
+    width: 200px;
+    margin: 20px 500px 0 0;
+    background-color: chartreuse ;
+}
+.logonew{
+    width: 118px;
+    bottom: 40px;
+    float: right;
+    margin-left: 1403px;
+    position: fixed;
+        
+
+}
+.last{
+    margin-right: 20px;
+}
